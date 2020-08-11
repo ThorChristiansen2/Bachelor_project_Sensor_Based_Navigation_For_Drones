@@ -4,8 +4,8 @@ This bachelor project was prepared at the department of Electrical Engineering (
 
 The project is written by August Leander Høeg and Thor Vestergaard Christiansen, students at the Technical University of Denmark.
 
-The source-code for the VO-pipeline is found in the branch Drone2020. This code is based upon exercises and the mini project from the course "Vision Algorithms for Mobile Robotics" offered at ETH Zürich in the fall semester of 2019 and taught by Prof. Dr. Davide Scaramuzza and Ph.D. students Mathias Gehrig and Daniel Gehrig.
+The source-code for the VO-pipeline used in the Bachelor project "Sensor Based Navigation for Drones" is found in the branch Drone2020. This code is based upon exercises and the mini project from the course "Vision Algorithms for Mobile Robotics" offered at ETH Zürich in the fall semester of 2019 and taught by Prof. Dr. Davide Scaramuzza and Ph.D. students Mathias Gehrig and Daniel Gehrig.
 
-Moreover a file called Matrix.h is also used. This file was made by Prof. Bjarne Stoustrup, the founder of the programming language C++.
+Moreover a file called Matrix.h is also used as a part of the VO-pipeline. This file was made by Prof. Bjarne Stroustrup, the designer and original implementer of the programming language C++.
 
-Updated on the 11th of August 2020. 
+This was updated on the 11th of August 2020. 
