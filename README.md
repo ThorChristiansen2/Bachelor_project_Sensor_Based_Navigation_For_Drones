@@ -1,6 +1,6 @@
 # Bachelor_project_Sensor_Based_Navigation_For_Drones
 
-This bachelor project was prepared at the department of Electrical Engineering (Automation and Control) at the Technical University of Denmark in fulfillment of the requirements for acquiring a Bachelor of Science degree in Electrical Engineering.
+The bachelor project "Sensor Based Navigation for Drones" was prepared at the department of Electrical Engineering (Automation and Control) at the Technical University of Denmark in fulfillment of the requirements for acquiring a Bachelor of Science degree in Electrical Engineering.
 
 The project is written by August Leander Høeg and Thor Vestergaard Christiansen, students at the Technical University of Denmark.
 
@@ -8,4 +8,4 @@ The source-code for the VO-pipeline used in the Bachelor project "Sensor Based N
 
 Moreover a file called Matrix.h is also used as a part of the VO-pipeline. This file was made by Prof. Bjarne Stroustrup, the designer and original implementer of the programming language C++.
 
-This was updated on the 11th of August 2020. 
+This was updated on the 12th of August 2020. 
