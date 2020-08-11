@@ -6,6 +6,4 @@ The project is written by August Leander Høeg and Thor Vestergaard Christiansen
 
 The source-code for the VO-pipeline is found in the branch Drone2020. This code is based upon exercises and the mini project from the course "Vision Algorithms for Mobile Robotics" offered at ETH Zürich in the fall semester of 2019 and taught by Prof. Dr. Davide Scaramuzza and Ph.D. students Mathias Gehrig and Daniel Gehrig.
 
-The source-code for the controller is found in the branch DRONEAHTC.
-
 Updated on the 11th of August 2020. 
