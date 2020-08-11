@@ -8,6 +8,4 @@ The source-code for the VO-pipeline is found in the folder Drone2020. This code 
 
 The source-code for the controller is found in the folder DRONEAHTC.
 
-If used please refer to the references in the report Sensor based Navigation for Drones by August Høeg and Thor Christiansen. 
-
-
+Updated on the 11th of August 2020. 
