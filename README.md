@@ -26,7 +26,7 @@ To use the code for the VO-pipeline on a Raspberry Pi, the following software pa
 
 Source-code for the Controller
 
-The source-code for the controller builds upon code from DJI-osdk, which can be downloaded from DJI's official website: https://developer.dji.com/onboard-sdk/ 
+The source-code for the controller builds upon code from the DJI-OSDK, which can be downloaded from DJI's official website: https://developer.dji.com/onboard-sdk/ 
 
 Moreover, the source-code for the controller builds upon internal libraries (Mobotware) developed by the Group of Automation and Control at the Department of Electrical Engineering at the Technical University of Denmark, DTU.
 
