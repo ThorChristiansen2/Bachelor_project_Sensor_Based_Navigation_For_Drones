@@ -8,7 +8,7 @@ The project is written by August Leander Høeg and Thor Vestergaard Christiansen
 
 Source-code for the VO-pipeline
 
-The source-code for the VO-pipeline used in the Bachelor project "Sensor Based Navigation for Drones" will soon be uploaded. This code is based upon exercises and the mini project from the course "Vision Algorithms for Mobile Robotics" offered at ETH Zürich in the fall semester of 2019 and taught by Prof. Dr. Davide Scaramuzza and Ph.D. students Mathias Gehrig and Daniel Gehrig. A link to the website of the course is here: http://rpg.ifi.uzh.ch/teaching.html 
+An updated version of the source-code for the VO-pipeline used in the Bachelor project "Sensor Based Navigation for Drones" will soon be uploaded. This code is based upon exercises and the mini project from the course "Vision Algorithms for Mobile Robotics" offered at ETH Zürich, Zürich, Switzerland in the fall semester of 2019 and taught by Prof. Dr. Davide Scaramuzza and Ph.D. students Mathias Gehrig and Daniel Gehrig. A link to the website of the course is here: http://rpg.ifi.uzh.ch/teaching.html 
 
 Moreover a file called Matrix.h (c) Bjarne Stroustrup, Texas A&M University is also used as a part of the VO-pipeline. This file was made by Prof. Bjarne Stroustrup, the designer and original implementer of the programming language C++. A link to Prof. Bjarne Stroustrup's website is: https://www.stroustrup.com/index.html 
 
