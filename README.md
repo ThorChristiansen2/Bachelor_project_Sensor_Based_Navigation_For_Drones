@@ -16,7 +16,7 @@ To use the code for the VO-pipeline on a Raspberry Pi, the following software pa
 
   1) OpenCV C++ Library. For this project version 4.3 was used. The official website for the OpenCV C++ Library can be found here: https://opencv.org/.
      A great guide for installing the OpenCV C++ library on a Raspberry Pi can be found on this website from Q-engineering: 
-     https://qengineering.eu/install-opencv-4.3-on- raspberry-pi-4.html 
+     https://qengineering.eu/install-opencv-4.3-on-raspberry-pi-4.html 
      
   2) A C++ API for using Raspberry Pi camera with OpenCV. This C++ API is made by Rafael Muñoz Salinas from Aplicaciones de la Visión Artifical at Universidad de Córdoba and can         be found on the following website: https://www.uco.es/investiga/grupos/ava/node/40
   
