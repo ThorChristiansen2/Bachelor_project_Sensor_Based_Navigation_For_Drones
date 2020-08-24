@@ -10,7 +10,9 @@ Source-code for the VO-pipeline
 
 An updated version of the source-code for the VO-pipeline used in the Bachelor project "Sensor Based Navigation for Drones" will soon be uploaded to this GitHub project. This code is based upon exercises and the mini project from the course "Vision Algorithms for Mobile Robotics" offered at ETH Zürich, Zürich, Switzerland in the fall semester of 2019 and taught by Prof. Dr. Davide Scaramuzza and Ph.D. students Mathias Gehrig and Daniel Gehrig. A link to the website of the course is here: http://rpg.ifi.uzh.ch/teaching.html 
 
-Moreover a file called Matrix.h (c) Bjarne Stroustrup, Texas A&M University is also used as a part of the VO-pipeline. This file was made by Prof. Bjarne Stroustrup, the designer and original implementer of the programming language C++. A link to Prof. Bjarne Stroustrup's website is: https://www.stroustrup.com/index.html 
+Moreover, an algorithm called P3P is used. This algorithm is open-source and developed by Laurent Kneip at SIST, ShanghaiTech. A link to the website is: https://www.laurentkneip.com/software. The code behind P3P is impelemented in both Matlab/C++ and is found here on the following link: https://dl.dropboxusercontent.com/u/23966023/home_page_files/p3p_code_final.zip. It is also contained in the library OpenGV: L. Kneip, P. Furgale, "OpenGV: A unified and generalized approach to real-time calibrated geometric vision", Proc. of The IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, China. May 2014.
+
+Additionally a file called Matrix.h (c) Bjarne Stroustrup, Texas A&M University is also used as a part of the VO-pipeline. This file was made by Prof. Bjarne Stroustrup, the designer and original implementer of the programming language C++. A link to Prof. Bjarne Stroustrup's website is: https://www.stroustrup.com/index.html 
 
 To use the code for the VO-pipeline on a Raspberry Pi, the following software packages are needed:
 
@@ -32,4 +34,4 @@ Moreover, the source-code for the controller builds upon internal libraries (Mob
 
 ########################################################
 
-This was updated on the 13th of August 2020. 
+This was updated on the 24th of August 2020. 
